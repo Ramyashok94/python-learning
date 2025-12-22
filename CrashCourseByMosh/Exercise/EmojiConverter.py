@@ -1,4 +1,4 @@
-import function
+from CrashCourseByMosh import function
 
 message = input("enter the message: ")
 
